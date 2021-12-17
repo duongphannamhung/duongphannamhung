@@ -1,6 +1,5 @@
 ### Hi everyone, I'm [Dương Phan Nam Hưng][github]. 😊🤝 - a data-lover. When decisions could be made more acurate, reports could be delivered automated and faster, you will see happiness on my face.
-<br /> 
-![alt text](https://media-exp1.licdn.com/dms/image/C5616AQHHuz64pUV-vQ/profile-displaybackgroundimage-shrink_350_1400/0/1605709937697?e=1645056000&v=beta&t=0ezL7yBcTO5J4viaNFaG8-qcUB4NdpvUbKmcAlQH23k)
+![alt text](https://media-exp1.licdn.com/dms/image/C5616AQHHuz64pUV-vQ/profile-displaybackgroundimage-shrink_350_1400/0/1605709937697?e=1645056000&v=beta&t=0ezL7yBcTO5J4viaNFaG8-qcUB4NdpvUbKmcAlQH23k)<br /> 
 <br /> 
 📺 This is my portfolio, where my projects present (with team and some are individual).
 <br />
